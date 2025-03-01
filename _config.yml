@@ -1,8 +1,8 @@
 ### your site title here
 
-title: Your Name
+title: Lucy Ham
 description: subtitle | affiliations | motto
-
+theme: jekyll-theme-minimal
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
